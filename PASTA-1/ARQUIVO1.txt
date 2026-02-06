@@ -1,1 +1,2 @@
-Uma frase
+Uma frase 2
+duas frases
